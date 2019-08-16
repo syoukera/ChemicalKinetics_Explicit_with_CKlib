@@ -1,4 +1,4 @@
-      PROGRAM test_CKlib_Explict
+      PROGRAM ChemicalKinetics_ex
 C
 C*****DOUBLE PRECISION
       IMPLICIT DOUBLE PRECISION (A-H, O-Z), INTEGER (I-N)
