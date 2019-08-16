@@ -1,0 +1,4 @@
+*.o
+output/*
+ChemicalKinetics_ex.o
+ChemicalKinetics_exe
